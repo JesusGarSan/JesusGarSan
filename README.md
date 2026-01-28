@@ -1,24 +1,19 @@
-## Acerda de mí
-¡Buenas! Me llamo Jesús, y soy estudiante de doctorado en el grupo de investigación [CoDaS Lab](https://codas.ugr.es/) de la [Universidad de Granada](https://www.ugr.es/). Mi tesis se centra en el uso de estadística multivariante en aplicaciones como la monitorización sísmica y predicción de erupciones volcánicas.
+<details open>
+  <summary><b>🇪🇸 Ver en Español</b></summary>
+  <br />
 
-Puedes encontrar más información acerca de mí en mi página web: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
+  ## Acerca de mí
+  ¡Buenas! Me llamo Jesús, y soy estudiante de doctorado en el grupo de investigación [CoDaS Lab](https://codas.ugr.es/) de la [Universidad de Granada](https://www.ugr.es/). Mi tesis se centra en el uso de estadística multivariante en aplicaciones como la monitorización sísmica y predicción de erupciones volcánicas.
 
-## About me 
-Hi there! My name is Jesús, and I am a PhD student in the [CoDaS Lab](https://codas.ugr.es/en) research group at the [Universidad of Granada](https://www.ugr.es/). My thesis focuses on the use of multivariate statistics in applications like seismic monitoring and volcanic eruption forecasting.
+  Puedes encontrar más información acerca de mí en mi página web: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
+</details>
 
-You can find out more about me in my personal webapge: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
+<details>
+  <summary><b>🇺🇸 View in English</b></summary>
+  <br />
 
-<!--
-**JesusGarSan/JesusGarSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## About me
+  Hi there! My name is Jesús, and I am a PhD student in the [CoDaS Lab](https://codas.ugr.es/en) research group at the [Universidad of Granada](https://www.ugr.es/). My thesis focuses on the use of multivariate statistics in applications like seismic monitoring and volcanic eruption forecasting.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  You can find out more about me in my personal webpage: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
+</details>
