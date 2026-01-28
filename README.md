@@ -1,4 +1,12 @@
-## Hi there 👋
+## Acerda de mí
+¡Buenas! Me llamo Jesús, y soy estudiante de doctorado en el grupo de investigación [CoDaS Lab](https://codas.ugr.es/) de la [Universidad de Granada](https://www.ugr.es/). Mi tesis se centra en el uso de estadística multivariante en aplicaciones como la monitorización sísmica y predicción de erupciones volcánicas.
+
+Puedes encontrar más información acerca de mí en mi página web: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
+
+## About me 
+Hi there! My name is Jesús, and I am a PhD student in the [CoDaS Lab](https://codas.ugr.es/en) research group at the [Universidad of Granada](https://www.ugr.es/). My thesis focuses on the use of multivariate statistics in applications like seismic monitoring and volcanic eruption forecasting.
+
+You can find out more about me in my personal webapge: [jesusgarsan.github.io](https://jesusgarsan.github.io/)
 
 <!--
 **JesusGarSan/JesusGarSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
