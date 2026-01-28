@@ -7,6 +7,8 @@
 
   ## Acerca de mí
   ¡Buenas! Me llamo Jesús, y soy estudiante de doctorado en el grupo de investigación [CoDaS Lab](https://codas.ugr.es/) de la [Universidad de Granada](https://www.ugr.es/). Mi tesis se centra en el uso de estadística multivariante en aplicaciones como la monitorización sísmica y predicción de erupciones volcánicas.
+
+  Soy un apasionado de la divulgación científica y las artes marciales, aunque aquí no me verás pegar muchas patadas. 
 </details>
 
 <details open>
@@ -14,5 +16,7 @@
 
   ## About me
   Hi there! My name is Jesús, and I am a PhD student in the [CoDaS Lab](https://codas.ugr.es/en) research group at the [Universidad of Granada](https://www.ugr.es/). My thesis focuses on the use of multivariate statistics in applications like seismic monitoring and volcanic eruption forecasting.
+
+  I am passionate about science communication and martial arts, though you won't see me kicking stuff here.
 
 </details>
