@@ -1,6 +1,5 @@
-
-img width="1697" height="476" alt="noche_europea_presentacion" src="https://github.com/user-attachments/assets/c1af5507-9889-4d65-837a-44a18ed4c3f8" />
-<details><
+<img width="1697" height="476" alt="noche_europea_presentacion" src="https://github.com/user-attachments/assets/c1af5507-9889-4d65-837a-44a18ed4c3f8" />
+<details>
   <summary><b>🇪🇸 Ver en Español
 
   ## Acerca de mí
